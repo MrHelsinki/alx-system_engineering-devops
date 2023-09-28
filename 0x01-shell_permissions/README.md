@@ -1,0 +1,1 @@
+shell premissions readme file 
